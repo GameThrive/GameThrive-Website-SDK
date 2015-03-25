@@ -1,0 +1,8 @@
+{
+  "name": "GameThrive Example",
+  "short_name": "GameThriveExample",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "GOOGLE_PROJECT_NUMBER",
+  "gcm_user_visible_only": true
+}

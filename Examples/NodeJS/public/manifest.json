@@ -1,0 +1,13 @@
+{
+  "name": "GameThrive Example",
+  "short_name": "GameThriveExample",
+  "icons": [{
+        "src": "images/GameThrive_icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }],
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "703322744261",
+  "gcm_user_visible_only": true
+}
